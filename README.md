@@ -71,5 +71,5 @@ This repository contains a **Universal Verification Methodology (UVM) testbench*
 This project is open-source and licensed under the MIT License.
 
 ---
-🎯 **Maintainer:**Tarneem
+🎯 **Maintainer:** Tarneem
 
