@@ -64,7 +64,6 @@ This repository contains a **Universal Verification Methodology (UVM) testbench*
 - The regression test ensures the ALU operates correctly under various conditions.
 
 ## 🚀 Future Improvements
-- Add **coverage-driven verification** for better test completeness.
 - Implement **assertions** to catch unexpected behavior.
 - Extend the testbench to support **more ALU operations**.
 
@@ -72,5 +71,5 @@ This repository contains a **Universal Verification Methodology (UVM) testbench*
 This project is open-source and licensed under the MIT License.
 
 ---
-🎯 **Maintainer:** _Your Name Here_
+🎯 **Maintainer:**Tarneem
 
